@@ -91,6 +91,7 @@ const Projects = ({ theme, githubUsername }) => {
                       variant="top"
                       src={projects.imageInfo.image}
                       alt="Project Image"
+                      id="card-img"
                     >
                     </Card.Img>
                   </a>

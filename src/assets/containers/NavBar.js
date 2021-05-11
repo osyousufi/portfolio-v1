@@ -38,7 +38,7 @@ const NavBar = ({ theme, setTheme }) => {
       <Navbar.Brand href="#home">
         <img
           className="d-inline-block align-top"
-          alt="React Logo"
+          alt="logo"
           src={logo}
           width="45"
           height="45"
