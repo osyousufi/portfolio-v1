@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a6beee2d.chunk.css",
-    "main.js": "/portfolio/static/js/main.6058dd08.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.6058dd08.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.5adf5d2d.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.5adf5d2d.js.map",
-    "static/js/2.fc841443.chunk.js": "/portfolio/static/js/2.fc841443.chunk.js",
-    "static/js/2.fc841443.chunk.js.map": "/portfolio/static/js/2.fc841443.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.a6beee2d.chunk.css.map": "/portfolio/static/css/main.a6beee2d.chunk.css.map",
-    "static/js/2.fc841443.chunk.js.LICENSE.txt": "/portfolio/static/js/2.fc841443.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/portfolio/static/media/Anders.b54aae06.ttf",
-    "static/media/bathroombotlogo.329a0aca.png": "/portfolio/static/media/bathroombotlogo.329a0aca.png",
-    "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg",
-    "static/media/logo.ff6e300d.png": "/portfolio/static/media/logo.ff6e300d.png",
-    "static/media/yanhualogolight.22887561.png": "/portfolio/static/media/yanhualogolight.22887561.png"
+    "main.css": "/portfolio-v1/static/css/main.ff6fcdce.chunk.css",
+    "main.js": "/portfolio-v1/static/js/main.6058dd08.chunk.js",
+    "main.js.map": "/portfolio-v1/static/js/main.6058dd08.chunk.js.map",
+    "runtime-main.js": "/portfolio-v1/static/js/runtime-main.e42d9f36.js",
+    "runtime-main.js.map": "/portfolio-v1/static/js/runtime-main.e42d9f36.js.map",
+    "static/js/2.fc841443.chunk.js": "/portfolio-v1/static/js/2.fc841443.chunk.js",
+    "static/js/2.fc841443.chunk.js.map": "/portfolio-v1/static/js/2.fc841443.chunk.js.map",
+    "index.html": "/portfolio-v1/index.html",
+    "static/css/main.ff6fcdce.chunk.css.map": "/portfolio-v1/static/css/main.ff6fcdce.chunk.css.map",
+    "static/js/2.fc841443.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.fc841443.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/portfolio-v1/static/media/Anders.b54aae06.ttf",
+    "static/media/bathroombotlogo.329a0aca.png": "/portfolio-v1/static/media/bathroombotlogo.329a0aca.png",
+    "static/media/logo.6ce24c58.svg": "/portfolio-v1/static/media/logo.6ce24c58.svg",
+    "static/media/logo.ff6e300d.png": "/portfolio-v1/static/media/logo.ff6e300d.png",
+    "static/media/yanhualogolight.22887561.png": "/portfolio-v1/static/media/yanhualogolight.22887561.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5adf5d2d.js",
+    "static/js/runtime-main.e42d9f36.js",
     "static/js/2.fc841443.chunk.js",
-    "static/css/main.a6beee2d.chunk.css",
+    "static/css/main.ff6fcdce.chunk.css",
     "static/js/main.6058dd08.chunk.js"
   ]
 }
