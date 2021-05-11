@@ -17,6 +17,7 @@ import { GrGatsbyjs } from "react-icons/gr";
 import bathroombotlogo from "./assets/images/bathroombotlogo.png";
 import blackjacklogo from "./assets/images/blackjacklogo.png";
 import yanhualogo from "./assets/images/yanhualogolight.png";
+import abetextlogo from "./assets/images/abetextlogo.png";
 
 
 /* START HERE - add your GitHub username below
@@ -96,11 +97,16 @@ export const filteredProjects = [
   "yanhua-v2",
   "blackjack",
   "bathroom-bot",
+  "abetext",
 ];
 
 // List the card images you want to include in the same order as the repos above (alphabetically)
 // There MUST be one image per repo above or the defualt image will be applied
 export const projectData = [
+  {
+    image: abetextlogo,
+    url: 'https://osy-abetext.netlify.app/'
+  },
   {
     image: bathroombotlogo,
     url: 'https://discord.com/oauth2/authorize?client_id=820429062676938823&permissions=387136&scope=bot'
