@@ -76,7 +76,7 @@ const Projects = ({ theme, githubUsername }) => {
     return (
       <section id="projects" className={newTheme}>
         <div className="container">
-          <h2>Projects</h2>
+          <h2>Live Projects</h2>
           <hr />
           <CardColumns>
             {data.map((projects) => {
